@@ -1,5 +1,5 @@
 # Kyogify
-revolutionary new technology that turns any image into professor Kyogu Lee
+revolutionary new technology that turns any image into professor Kyogu Lee (originally Obama from [the original repo](https://github.com/Spu7Nix/obamify))
 
 ![example](example.gif)
 
